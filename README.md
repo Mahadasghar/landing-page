@@ -79,5 +79,5 @@ This repository contains the source code for a simple landing page created using
 
 ---
 This guide ensures a smooth deployment of your landing page using Nginx on a remote VM.
-```
+
 
